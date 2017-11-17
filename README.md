@@ -1,3 +1,3 @@
 # hello-world
-Tutorial repository
+Tutorial repository.
 Brand new to all this!
